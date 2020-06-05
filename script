@@ -1,0 +1,24 @@
+
+.coords-dark{
+    font-size: 50px !important;
+}
+
+.coords-light{
+    font-size: 50px !important;
+}
+
+.coordinates_outside{
+    position: absolute; left: 730px;
+}
+
+.coords-light{
+    position: absolute; padding-right: 30px !important;
+}
+
+.coords-dark{
+    position: absolute; padding-right: 30px !important;
+}
+
+.board-layout-bottom{
+    position:relative; padding-top: 60px; 
+}
