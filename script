@@ -22,3 +22,7 @@
 .board-layout-bottom{
     position:relative; padding-top: 60px; 
 }
+
+.coordinate-grey{
+    font-size:4.5px !important;
+}
